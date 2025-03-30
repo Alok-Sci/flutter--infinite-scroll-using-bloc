@@ -28,10 +28,10 @@ A Flutter application demonstrating infinite scrolling with product data, levera
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/infinite-scroll-app
+git clone https://github.com/Alok-Sci/flutter--infinite-scroll-using-bloc
 
 # Navigate to project directory
-cd infinite-scroll-app
+cd flutter--infinite-scroll-using-bloc
 
 # Install dependencies
 flutter pub get
